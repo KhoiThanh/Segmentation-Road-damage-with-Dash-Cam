@@ -8,23 +8,6 @@ Một hệ thống toàn diện để phát hiện và phân vùng các tổn th
 
 ---
 
-## 📋 Mục lục
-
-- [Tổng quan Dự án](#tổng-quan-dự-án)
-- [Tính năng](#tính-năng)
-- [Stack Công nghệ](#stack-công-nghệ)
-- [Cấu trúc Dự án](#cấu-trúc-dự-án)
-- [Yêu cầu Hệ thống](#yêu-cầu-hệ-thống)
-- [Cài đặt & Thiết lập](#cài-đặt--thiết-lập)
-- [Chạy Ứng dụng](#chạy-ứng-dụng)
-- [Tài liệu API](#tài-liệu-api)
-- [Thông tin Dataset](#thông-tin-dataset)
-- [Thông tin Mô hình](#thông-tin-mô-hình)
-- [Kết quả & Output](#kết-quả--output)
-- [Khắc phục Sự cố](#khắc-phục-sự-cố)
-- [Các Notebook](#các-notebook)
-
----
 
 ## 🎯 Tổng quan Dự án
 
