@@ -2,6 +2,7 @@
 ## Dataset "https://www.kaggle.com/datasets/sunnykenneth/road-damage-dataset-for-segmentation"
 ## Kết quả quá trình huấn luyện : "https://drive.google.com/drive/folders/1iMhYOiZlo6DkjC206jSGszwuBfUVISkh?usp=sharing"
 ## Kết quả chạy thực nghiệm : "https://drive.google.com/drive/folders/163dhnXlHPX8bq6yulmcC1XvmP9MLlPmO?usp=sharing"
+## Tệp ứng dụng mobile: "https://drive.google.com/drive/folders/1zmO5F4rPp-xRe5PBL1-W9EDodgj2jrSP?usp=sharing"
 Một hệ thống toàn diện để phát hiện và phân vùng các tổn thương đường bộ (vết nứt, ổ gà) sử dụng phân vùng YOLOv11 với ba thành phần tích hợp: Ứng dụng Web, API Backend di động và ứng dụng Flutter.
 
 **Ngôn ngữ:** [English](README.md) | Tiếng Việt 🇻🇳
