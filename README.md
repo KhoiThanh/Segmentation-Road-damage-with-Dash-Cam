@@ -6,25 +6,6 @@ A comprehensive system for detecting and segmenting road damages (cracks, pothol
 
 > 📖 For detailed Vietnamese guide: [Hướng dẫn Chi tiết](HUONG_DAN_CHAY.md)
 
----
-
-## 📋 Table of Contents
-
-- [Project Overview](#project-overview)
-- [Features](#features)
-- [Technical Stack](#technical-stack)
-- [Project Structure](#project-structure)
-- [Prerequisites](#prerequisites)
-- [Installation & Setup](#installation--setup)
-- [Running the Application](#running-the-application)
-- [API Documentation](#api-documentation)
-- [Dataset Information](#dataset-information)
-- [Model Information](#model-information)
-- [Results & Outputs](#results--outputs)
-- [Troubleshooting](#troubleshooting)
-- [Contributors](#contributors)
-
----
 
 ## 🎯 Project Overview
 
