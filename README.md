@@ -1,4 +1,8 @@
 # 🛣️ Road Damage Detection (RDD) - YOLO Segmentation
+## Dataset: "https://www.kaggle.com/datasets/sunnykenneth/road-damage-dataset-for-segmentation"
+## Training results: "https://drive.google.com/drive/folders/1iMhYOiZlo6DkjC206jSGszwuBfUVISkh?usp=sharing"
+## Experimental results: "https://drive.google.com/drive/folders/163dhnXlHPX8bq6yulmcC1XvmP9MLlPmO?usp=sharing"
+## Mobile application file: "https://drive.google.com/drive/folders/1zmO5F4rPp-xRe5PBL1-W9EDodgj2jrSP?usp=sharing"
 
 A comprehensive system for detecting and segmenting road damages (cracks, potholes) using YOLOv11 segmentation with three integrated components: Web application, Mobile backend API, and Flutter mobile app.
 
