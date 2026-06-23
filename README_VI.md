@@ -1,28 +1,11 @@
 # 🛣️ Hệ thống Nhận diện Tổn thương Đường (RDD) - YOLO Segmentation
-## Dataset "https://www.kaggle.com/datasets/sunnykenneth/road-damage-dataset-for-segmentation"
-## Kết quả quá trình huấn luyện : "https://drive.google.com/drive/folders/1iMhYOiZlo6DkjC206jSGszwuBfUVISkh?usp=sharing"
-## Kết quả chạy thực nghiệm : "https://drive.google.com/drive/folders/163dhnXlHPX8bq6yulmcC1XvmP9MLlPmO?usp=sharing"
+## [Dataset](https://www.kaggle.com/datasets/sunnykenneth/road-damage-dataset-for-segmentation)
+## [Kết quả quá trình huấn luyện](https://drive.google.com/drive/folders/1iMhYOiZlo6DkjC206jSGszwuBfUVISkh?usp=sharing)
+## [Kết quả chạy thực nghiệm](https://drive.google.com/drive/folders/163dhnXlHPX8bq6yulmcC1XvmP9MLlPmO?usp=sharing)
+## [Tệp ứng dụng mobile](https://drive.google.com/drive/folders/1zmO5F4rPp-xRe5PBL1-W9EDodgj2jrSP?usp=sharing)
 Một hệ thống toàn diện để phát hiện và phân vùng các tổn thương đường bộ (vết nứt, ổ gà) sử dụng phân vùng YOLOv11 với ba thành phần tích hợp: Ứng dụng Web, API Backend di động và ứng dụng Flutter.
 
 **Ngôn ngữ:** [English](README.md) | Tiếng Việt 🇻🇳
-
----
-
-## 📋 Mục lục
-
-- [Tổng quan Dự án](#tổng-quan-dự-án)
-- [Tính năng](#tính-năng)
-- [Stack Công nghệ](#stack-công-nghệ)
-- [Cấu trúc Dự án](#cấu-trúc-dự-án)
-- [Yêu cầu Hệ thống](#yêu-cầu-hệ-thống)
-- [Cài đặt & Thiết lập](#cài-đặt--thiết-lập)
-- [Chạy Ứng dụng](#chạy-ứng-dụng)
-- [Tài liệu API](#tài-liệu-api)
-- [Thông tin Dataset](#thông-tin-dataset)
-- [Thông tin Mô hình](#thông-tin-mô-hình)
-- [Kết quả & Output](#kết-quả--output)
-- [Khắc phục Sự cố](#khắc-phục-sự-cố)
-- [Các Notebook](#các-notebook)
 
 ---
 
